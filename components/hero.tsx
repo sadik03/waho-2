@@ -38,7 +38,7 @@ export function Hero() {
           <p
             className={`text-xl md:text-2xl text-white/90 font-light transition-all duration-800 delay-200 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-5'}`}
           >
-            This time let's Start with United Arab Emirates
+            This time let s Start with United Arab Emirates
           </p>
           <div
             className={`mt-8 transition-all duration-800 delay-400 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-5'}`}
